@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional - you may want to include these)
+# *.csv
+# *.xlsx
+
+# Output files
+*.log
+*.out
